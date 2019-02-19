@@ -8,4 +8,5 @@ Alibaba Cloud German AI Challenge 2018比赛基本信息为：利用欧洲地球
 
 复赛取得了0.817的准确率，名次为67/200。
 
-详细的比赛经历及说明见博客https://blog.csdn.net/wtrnash/article/details/87692510。
+详细的比赛经历及说明见博客https://blog.csdn.net/wtrnash/article/details/87692510
+
